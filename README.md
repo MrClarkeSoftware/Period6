@@ -1,2 +1,3 @@
 # Period6
-Example for period 6
+An example for period 6
+This is an update on 3/1
